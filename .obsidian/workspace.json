@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "f580e96fedc53ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "38764c17ead577d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12aff6b2d648d06e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2c50625abcb3b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ad71ebb02cb0715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed6506bafecca986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32bb4dbd7fc7a67f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a21a4a18fe41629",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2f206710565fa80",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f1c22e9b249871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b8e0d760dd7064",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abeb07a7cd4a8fcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f81d321bbf8aa39f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bbf1199970577d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad736d78256b833d",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "ed6506bafecca986",
+  "lastOpenFiles": [
+    "Copy main.js.gif",
+    "Copy main.js 1.gif",
+    "Timeline of my Life.md",
+    "Timelines/Kinetic Typography.md",
+    "Timelines/Anderson rebuking Lordship Salvation.md",
+    "Timelines/Broken laptop.md",
+    "Timelines/First soul saved!.md",
+    "Timelines/Ethan Master Trading Journal.md",
+    "Timelines/Labor Hours Project.md",
+    "Timelines/Left to my own devices (uTorrent).md",
+    "Timelines/Attend Stedfast Baptist Church.md",
+    "Timelines/Age of innocence.md",
+    "Timelines/Spiritual deadness.md",
+    "Timelines/Crush on Savannah Calvert.md",
+    "Timelines/Crush on Kayleigh Forbes.md",
+    "Timelines/Date Amy.md",
+    "Timelines/Accidentally hugged Amy.md",
+    "Timelines/Turning Romans 7 on its Head.md",
+    "Timelines/True Meaning Of James 2.md",
+    "Timelines/The Great Falling Away.md",
+    "Timelines/Talking to Mariana.md",
+    "Timelines/Starting to like Nexus.md",
+    "Timelines/Starting to like Ashlynn.md",
+    "Timelines/node.js - SQL.md",
+    "Timelines/Nexus and Tim Got Married!.md",
+    "Timelines/New IFB Database work.md",
+    "Timelines/Met Mariana at Company Party.md",
+    "Timelines"
+  ]
+}
