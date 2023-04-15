@@ -1,0 +1,7 @@
+[submodule ".obsidian/plugins/obsidian-timelines"]
+	path = .obsidian/plugins/obsidian-timelines
+	url = https://github.com/Darakah/obsidian-timelines.git
+	ignore = all # Add this line to ignore all files in the submodule
+[submodule ".obsidian/plugins/obsidian-dev-tools"]
+	path = .obsidian/plugins/obsidian-dev-tools
+	url = https://github.com/KjellConnelly/obsidian-dev-tools.git

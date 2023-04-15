@@ -1,0 +1,17 @@
+workspace
+workspace.json
+workspace-mobile.json
+plugins/obsidian-zotero-desktop-connector/pdfannots2json.exe
+plugins/obsidian-dictionary-plugin/cache.json
+plugins/digitalgarden/data.json
+# Ignore future revisions to existing file
+# git update-index --skip-worktree .obsidian/plugins/digitalgarden/data.json
+# Remove completely
+# git rm --cached -r .obsidian/plugins/digitalgarden/data.json
+plugins/obsidian-multi-cursor
+plugins/templater-obsidian/main.js
+plugins/obsidian-textgenerator-plugin/main.js
+node_modules
+graph.json
+!.obsidian/plugins/obsidian-timelines/main.js
+!.obsidian/plugins/obsidian-timelines/styles.css
